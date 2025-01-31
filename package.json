@@ -1,23 +1,14 @@
 {
     "name": "json-server-api",
     "version": "1.0.0",
+    "type": "module",
     "description": "JSON Server API for Netlify",
     "main": "server.js",
     "scripts": {
-        "start": "node server.js"
+      "start": "node server.js"
     },
     "dependencies": {
-        "json-server": "^0.17.0"
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/JoseDFN/json-server-api-f1.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/JoseDFN/json-server-api-f1/issues"
-    },
-    "homepage": "https://github.com/JoseDFN/json-server-api-f1#readme"
-}
+      "json-server": "^0.17.0"
+    }
+  }
+  
