@@ -487,7 +487,7 @@
           "desgaste_neumaticos": { "seco": 1.2, "lluvioso": 0.7, "extremo": 2.0 }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Charles_Leclerc_2022_Austria.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/ferrari.png",
       "id": "F101"
     },
     {
@@ -514,7 +514,7 @@
           "desgaste_neumaticos": { "seco": 1.3, "lluvioso": 0.8, "extremo": 2.1 }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lando_Norris_2021_British_Grand_Prix.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/mclaren.png",
       "id": "M720"
     },
     {
@@ -541,7 +541,7 @@
           "desgaste_neumaticos": { "seco": 1.4, "lluvioso": 0.9, "extremo": 2.2 }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sebastian_Vettel_2022_British_Grand_Prix.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/aston-martin.png",
       "id": "AM300"
     },
     {
@@ -568,7 +568,7 @@
           "desgaste_neumaticos": { "seco": 1.5, "lluvioso": 1.0, "extremo": 2.3 }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fernando_Alonso_2021_Austria_2.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/alpine.png",
       "id": "AL999"
     }
   ]
