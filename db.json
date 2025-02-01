@@ -406,7 +406,7 @@
           }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/89/Max_Verstappen_2023_Austria_FP2_%28cropped%29.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/red-bull-racing.png",
       "id": "e3e2"
     },
     {
@@ -460,8 +460,116 @@
           }
         }
       },
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/8/87/Lewis_Hamilton_2022_Imola.jpg",
+      "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/mercedes.png",
       "id": "0621"
+    },
+    {
+      "equipo": "Scuderia Ferrari",
+      "modelo": "SF-24",
+      "motor": "Ferrari",
+      "velocidad_maxima_kmh": 350,
+      "aceleracion_0_100": 2.7,
+      "pilotos": [5, 6],
+      "rendimiento": {
+        "conduccion_normal": {
+          "velocidad_promedio_kmh": 310,
+          "consumo_combustible": { "seco": 2.1, "lluvioso": 2.3, "extremo": 2.6 },
+          "desgaste_neumaticos": { "seco": 1.7, "lluvioso": 1.0, "extremo": 2.7 }
+        },
+        "conduccion_agresiva": {
+          "velocidad_promedio_kmh": 330,
+          "consumo_combustible": { "seco": 2.7, "lluvioso": 2.9, "extremo": 3.3 },
+          "desgaste_neumaticos": { "seco": 2.4, "lluvioso": 1.5, "extremo": 3.9 }
+        },
+        "ahorro_combustible": {
+          "velocidad_promedio_kmh": 290,
+          "consumo_combustible": { "seco": 1.8, "lluvioso": 2.0, "extremo": 2.3 },
+          "desgaste_neumaticos": { "seco": 1.2, "lluvioso": 0.7, "extremo": 2.0 }
+        }
+      },
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/37/Charles_Leclerc_2022_Austria.jpg",
+      "id": "F101"
+    },
+    {
+      "equipo": "McLaren F1 Team",
+      "modelo": "MCL60",
+      "motor": "Mercedes",
+      "velocidad_maxima_kmh": 352,
+      "aceleracion_0_100": 2.65,
+      "pilotos": [7, 8],
+      "rendimiento": {
+        "conduccion_normal": {
+          "velocidad_promedio_kmh": 312,
+          "consumo_combustible": { "seco": 2.2, "lluvioso": 2.4, "extremo": 2.7 },
+          "desgaste_neumaticos": { "seco": 1.8, "lluvioso": 1.1, "extremo": 2.8 }
+        },
+        "conduccion_agresiva": {
+          "velocidad_promedio_kmh": 332,
+          "consumo_combustible": { "seco": 2.8, "lluvioso": 3.0, "extremo": 3.4 },
+          "desgaste_neumaticos": { "seco": 2.5, "lluvioso": 1.6, "extremo": 4.0 }
+        },
+        "ahorro_combustible": {
+          "velocidad_promedio_kmh": 292,
+          "consumo_combustible": { "seco": 1.9, "lluvioso": 2.1, "extremo": 2.4 },
+          "desgaste_neumaticos": { "seco": 1.3, "lluvioso": 0.8, "extremo": 2.1 }
+        }
+      },
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lando_Norris_2021_British_Grand_Prix.jpg",
+      "id": "M720"
+    },
+    {
+      "equipo": "Aston Martin F1 Team",
+      "modelo": "AMR24",
+      "motor": "Mercedes",
+      "velocidad_maxima_kmh": 348,
+      "aceleracion_0_100": 2.75,
+      "pilotos": [9, 10],
+      "rendimiento": {
+        "conduccion_normal": {
+          "velocidad_promedio_kmh": 308,
+          "consumo_combustible": { "seco": 2.3, "lluvioso": 2.5, "extremo": 2.8 },
+          "desgaste_neumaticos": { "seco": 1.9, "lluvioso": 1.2, "extremo": 2.9 }
+        },
+        "conduccion_agresiva": {
+          "velocidad_promedio_kmh": 328,
+          "consumo_combustible": { "seco": 2.9, "lluvioso": 3.1, "extremo": 3.5 },
+          "desgaste_neumaticos": { "seco": 2.6, "lluvioso": 1.7, "extremo": 4.1 }
+        },
+        "ahorro_combustible": {
+          "velocidad_promedio_kmh": 288,
+          "consumo_combustible": { "seco": 2.0, "lluvioso": 2.2, "extremo": 2.5 },
+          "desgaste_neumaticos": { "seco": 1.4, "lluvioso": 0.9, "extremo": 2.2 }
+        }
+      },
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/49/Sebastian_Vettel_2022_British_Grand_Prix.jpg",
+      "id": "AM300"
+    },
+    {
+      "equipo": "Alpine F1 Team",
+      "modelo": "A524",
+      "motor": "Renault",
+      "velocidad_maxima_kmh": 345,
+      "aceleracion_0_100": 2.8,
+      "pilotos": [11, 12],
+      "rendimiento": {
+        "conduccion_normal": {
+          "velocidad_promedio_kmh": 305,
+          "consumo_combustible": { "seco": 2.4, "lluvioso": 2.6, "extremo": 2.9 },
+          "desgaste_neumaticos": { "seco": 2.0, "lluvioso": 1.3, "extremo": 3.0 }
+        },
+        "conduccion_agresiva": {
+          "velocidad_promedio_kmh": 325,
+          "consumo_combustible": { "seco": 3.0, "lluvioso": 3.2, "extremo": 3.6 },
+          "desgaste_neumaticos": { "seco": 2.7, "lluvioso": 1.8, "extremo": 4.2 }
+        },
+        "ahorro_combustible": {
+          "velocidad_promedio_kmh": 285,
+          "consumo_combustible": { "seco": 2.1, "lluvioso": 2.3, "extremo": 2.6 },
+          "desgaste_neumaticos": { "seco": 1.5, "lluvioso": 1.0, "extremo": 2.3 }
+        }
+      },
+      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Fernando_Alonso_2021_Austria_2.jpg",
+      "id": "AL999"
     }
   ]
 }
