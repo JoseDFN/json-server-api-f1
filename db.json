@@ -194,7 +194,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monte_Carlo_Formula_1_track_map.svg",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Monaco%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit",
       "id": "bd91"
     },
     {
@@ -222,7 +223,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Silverstone_Circuit_2020_layout.png",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Great%20Britain%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit",
       "id": "2c5d"
     },
     {
@@ -250,7 +252,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Circuit_Spa_2018.png",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Belgium%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit",
       "id": "0097"
     },
     {
@@ -278,7 +281,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Monza_track_map.svg",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Emilia-Romagna%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit",
       "id": "9ef4"
     },
     {
@@ -306,7 +310,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/2/23/Aut%C3%B3dromo_Jos%C3%A9_Carlos_Pace_%28Interlagos%29.svg",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Brazil%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit",
       "id": "1253"
     },
     {
@@ -334,7 +339,8 @@
           "piloto": 3
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Yas_Marina_Circuit_2021_layout.svg",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Saudi%20Arabia%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit",
       "id": "bedc"
     },
     {
@@ -362,7 +368,8 @@
           "piloto": 1
         }
       ],
-      "imagen": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Suzuka_circuit_map--2005.svg",
+      "imagen": "https://media.formula1.com/content/dam/fom-website/2018-redesign-assets/Track%20icons%204x3/Japan%20carbon.png",
+      "imagen_detail": "https://media.formula1.com/image/upload/f_auto,c_limit,q_auto,w_1320/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit",
       "id": "4efb"
     }
   ],
