@@ -419,7 +419,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/red-bull-racing.png",
-      "id": "e3e2"
+      "id": "e3e2",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 RedBull RB-20 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/0c9e188ef67b49f1bafd4b9e290a410c/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-redbull-rb-20-2024-0c9e188ef67b49f1bafd4b9e290a410c\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 RedBull RB-20 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Mercedes-AMG Petronas",
@@ -473,7 +474,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/mercedes.png",
-      "id": "0621"
+      "id": "0621",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Mercedes W-15 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1abb9746438f45cf8829fe56dfc3374a/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-mercedes-w-15-2024-1abb9746438f45cf8829fe56dfc3374a\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Mercedes W-15 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Scuderia Ferrari",
@@ -500,7 +502,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/ferrari.png",
-      "id": "F101"
+      "id": "F101",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Ferrari SF-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1f6c17dda59a49e78de6a8b788566ea7/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-ferrari-sf-24-2024-1f6c17dda59a49e78de6a8b788566ea7\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Ferrari SF-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "McLaren F1 Team",
@@ -527,7 +530,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/mclaren.png",
-      "id": "M720"
+      "id": "M720",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 McLaren MCL-38 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/a7bf8c65daae4815b2948e82a6295704/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-mclaren-mcl-38-2024-a7bf8c65daae4815b2948e82a6295704\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 McLaren MCL-38 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Aston Martin F1 Team",
@@ -554,7 +558,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/aston-martin.png",
-      "id": "AM300"
+      "id": "AM300",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Aston Martin AMR-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1152c136adb84bf28e388dd9de1ef5bf/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-aston-martin-amr-24-2024-1152c136adb84bf28e388dd9de1ef5bf\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Aston Martin AMR-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Alpine F1 Team",
@@ -581,7 +586,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/alpine.png",
-      "id": "AL999"
+      "id": "AL999",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Alpine A-542 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/7331c4bcbf6d4063b48ab851a893253d/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-alpine-a-542-2024-7331c4bcbf6d4063b48ab851a893253d\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Alpine A-542 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Haas F1 Team",
@@ -632,7 +638,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/haas.png",
-      "id": "H100"
+      "id": "H100",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 HAAS VF-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/90fb9bf749804fbcaf240f6815758e67/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-haas-vf-24-2024-90fb9bf749804fbcaf240f6815758e67\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 HAAS VF-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Kick Sauber",
@@ -683,7 +690,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/kick-sauber.png",
-      "id": "KS001"
+      "id": "KS001",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Sauber C-44 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/f037d1e692984180a73137e12e733a35/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-sauber-c-44-2024-f037d1e692984180a73137e12e733a35\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Sauber C-44 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Williams",
@@ -734,7 +742,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/williams.png",
-      "id": "W001"
+      "id": "W001",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"Williams FW28 (Imola 2006)\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/b90e9be341d24e94ad3d799a2baa874e/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/williams-fw28-imola-2006-b90e9be341d24e94ad3d799a2baa874e\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> Williams FW28 (Imola 2006) </a> by <a href=\"https://sketchfab.com/ctdp?utm_medium=embed&utm_campaign=share-popup&utm_content=b90e9be341d24e94ad3d799a2baa874e\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> Cars & Tracks Development Project </a> on <a href=\"https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b90e9be341d24e94ad3d799a2baa874e\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
       "equipo": "Racing Bulls",
@@ -785,7 +794,8 @@
         }
       },
       "imagen": "https://media.formula1.com/d_team_car_fallback_image.png/content/dam/fom-website/teams/2025/racing-bulls.png",
-      "id": "RBBS"
+      "id": "RBBS",
+      "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 VCARB_01 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/426c63bab14e47c19748c4158e5822a3/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-vcarb-01-2024-426c63bab14e47c19748c4158e5822a3\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 VCARB_01 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     }
   ]
 }
