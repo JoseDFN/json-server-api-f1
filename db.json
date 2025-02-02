@@ -4,133 +4,155 @@
       "id": "1",
       "nombre": "Max Verstappen",
       "equipo": "Red Bull Racing",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png"
     },
     {
       "id": "2",
       "nombre": "Sergio Pérez",
       "equipo": "Red Bull Racing",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/sergio-perez-2024.png"
     },
     {
       "id": "3",
       "nombre": "Lewis Hamilton",
       "equipo": "Mercedes-AMG Petronas",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://www.pngplay.com/wp-content/uploads/13/Lewis-Hamilton-Background-PNG-Image.png"
     },
     {
       "id": "4",
       "nombre": "George Russell",
       "equipo": "Mercedes-AMG Petronas",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://cdn.racingnews365.com/Riders/Russell/_570x570_crop_center-center_none/f1_2024_gr_mer_lg.png?v=1708704486"
     },
     {
       "id": "5",
       "nombre": "Charles Leclerc",
       "equipo": "Ferrari",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png"
     },
     {
       "id": "6",
       "nombre": "Carlos Sainz",
       "equipo": "Ferrari",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXIvMjAyNC9kcml2ZXJzL2hlYWRzaG90cy9mMS9zYWkucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDB9fX0"
     },
     {
       "id": "7",
       "nombre": "Lando Norris",
       "equipo": "McLaren",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/lando-norris-2024.png"
     },
     {
       "id": "8",
       "nombre": "Oscar Piastri",
       "equipo": "McLaren",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://a.espncdn.com/combiner/i?img=/i/headshots/rpm/players/full/5752.png"
     },
     {
       "id": "9",
       "nombre": "Fernando Alonso",
       "equipo": "Aston Martin",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png"
     },
     {
       "id": "10",
       "nombre": "Lance Stroll",
       "equipo": "Aston Martin",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://media.formula1.com/d_driver_fallback_image.png/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png"
     },
     {
       "id": "11",
       "nombre": "Esteban Ocon",
       "equipo": "Alpine",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://image-service.zaonce.net/eyJidWNrZXQiOiJmcm9udGllci1jbXMiLCJrZXkiOiJmMW1hbmFnZXIvMjAyNC9kcml2ZXJzL2hlYWRzaG90cy9mMS9vY28ucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjo1MDB9fX0="
     },
     {
       "id": "12",
       "nombre": "Pierre Gasly",
       "equipo": "Alpine",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/pierre-gsly-2024.png"
     },
     {
       "id": "13",
       "nombre": "Valtteri Bottas",
       "equipo": "Alfa Romeo",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/valtteri-bottas-2024.png"
     },
     {
       "id": "14",
       "nombre": "Zhou Guanyu",
       "equipo": "Alfa Romeo",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/guanyu-zhou-2024.png"
     },
     {
       "id": "15",
       "nombre": "Kevin Magnussen",
       "equipo": "Haas",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/kevin-magnussen-2024.png"
     },
     {
       "id": "16",
       "nombre": "Nico Hülkenberg",
       "equipo": "Haas",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://e0.365dm.com/f1/drivers/256x256/h_full_1028.png"
     },
     {
       "id": "17",
       "nombre": "Yuki Tsunoda",
       "equipo": "AlphaTauri",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/yuki-tsunoda-2024.png"
     },
     {
       "id": "18",
       "nombre": "Daniel Ricciardo",
       "equipo": "AlphaTauri",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/daniel-ricciardo-2024.png"
     },
     {
       "id": "19",
       "nombre": "Alexander Albon",
       "equipo": "Williams",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/alexander-albon-2024.png"
     },
     {
       "id": "20",
       "nombre": "Logan Sargeant",
       "equipo": "Williams",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://soymotor.com/sites/default/files/2024-02/logan-sargeant-2024.png"
     },
     {
       "id": "21",
       "nombre": "Racing Bulls",
       "equipo": "Red Bull Racing",
-      "rol": "Líder"
+      "rol": "Líder",
+      "imagen": "https://via.placeholder.com/150?text=Racing+Bulls"
     },
     {
       "id": "22",
       "nombre": "Racing Bulls",
       "equipo": "Red Bull Racing",
-      "rol": "Escudero"
+      "rol": "Escudero",
+      "imagen": "https://via.placeholder.com/150?text=Racing+Bulls"
     }
   ],
   "equipos": [
