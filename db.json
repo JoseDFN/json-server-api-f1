@@ -1016,11 +1016,11 @@
   "vehiculos": [
     {
       "equipo": "E194D1C1A9B5",
-      "modelo": "A524",
+      "modelo": "A525",
       "motor": "Renault",
       "velocidad_maxima_kmh": 345,
       "aceleracion_0_100": 2.8,
-      "pilotos": [11, 12],
+      "pilotos": ["1","2"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 305,
@@ -1067,12 +1067,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Alpine A-542 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/7331c4bcbf6d4063b48ab851a893253d/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-alpine-a-542-2024-7331c4bcbf6d4063b48ab851a893253d\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Alpine A-542 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Aston Martin F1 Team",
-      "modelo": "AMR24",
+      "equipo": "E194D1C6C206",
+      "modelo": "TBC",
       "motor": "Mercedes",
       "velocidad_maxima_kmh": 348,
       "aceleracion_0_100": 2.75,
-      "pilotos": [9, 10],
+      "pilotos": ["3","4"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 308,
@@ -1119,12 +1119,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Aston Martin AMR-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1152c136adb84bf28e388dd9de1ef5bf/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-aston-martin-amr-24-2024-1152c136adb84bf28e388dd9de1ef5bf\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Aston Martin AMR-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Scuderia Ferrari",
-      "modelo": "SF-24",
+      "equipo": "E194D1C811C9",
+      "modelo": "SF-25",
       "motor": "Ferrari",
       "velocidad_maxima_kmh": 350,
       "aceleracion_0_100": 2.7,
-      "pilotos": [5, 6],
+      "pilotos": ["5","6"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 310,
@@ -1171,12 +1171,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Ferrari SF-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1f6c17dda59a49e78de6a8b788566ea7/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-ferrari-sf-24-2024-1f6c17dda59a49e78de6a8b788566ea7\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Ferrari SF-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Haas F1 Team",
-      "modelo": "VF-21",
+      "equipo": "E194D1C968C5",
+      "modelo": "TBC",
       "motor": "Ferrari",
       "velocidad_maxima_kmh": 345,
       "aceleracion_0_100": 2.8,
-      "pilotos": [15, 16],
+      "pilotos": ["7","8"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 308,
@@ -1223,12 +1223,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 HAAS VF-24 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/90fb9bf749804fbcaf240f6815758e67/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-haas-vf-24-2024-90fb9bf749804fbcaf240f6815758e67\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 HAAS VF-24 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Kick Sauber",
-      "modelo": "KS-1",
+      "equipo": "E194D1CB2626",
+      "modelo": "TBC",
       "motor": "Alfa Romeo",
       "velocidad_maxima_kmh": 340,
       "aceleracion_0_100": 2.75,
-      "pilotos": [13, 14],
+      "pilotos": ["9","10"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 310,
@@ -1275,12 +1275,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Sauber C-44 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/f037d1e692984180a73137e12e733a35/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-sauber-c-44-2024-f037d1e692984180a73137e12e733a35\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Sauber C-44 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "McLaren F1 Team",
-      "modelo": "MCL60",
+      "equipo": "E194D1CC93C4",
+      "modelo": "TBC",
       "motor": "Mercedes",
       "velocidad_maxima_kmh": 352,
       "aceleracion_0_100": 2.65,
-      "pilotos": [7, 8],
+      "pilotos": ["11","12"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 312,
@@ -1327,12 +1327,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 McLaren MCL-38 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/a7bf8c65daae4815b2948e82a6295704/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-mclaren-mcl-38-2024-a7bf8c65daae4815b2948e82a6295704\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 McLaren MCL-38 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Mercedes-AMG Petronas",
-      "modelo": "W15",
+      "equipo": "E194D2A33DFB",
+      "modelo": "W16",
       "motor": "Mercedes",
       "velocidad_maxima_kmh": 355,
       "aceleracion_0_100": 2.6,
-      "pilotos": [3, 4],
+      "pilotos": ["13","14"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 315,
@@ -1379,12 +1379,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 Mercedes W-15 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/1abb9746438f45cf8829fe56dfc3374a/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-mercedes-w-15-2024-1abb9746438f45cf8829fe56dfc3374a\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 Mercedes W-15 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Racing Bulls",
-      "modelo": "RB22",
+      "equipo": "E194D2A4C0A3",
+      "modelo": "TBC",
       "motor": "Honda",
       "velocidad_maxima_kmh": 365,
       "aceleracion_0_100": 2.45,
-      "pilotos": [21, 22],
+      "pilotos": ["15","16"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 322,
@@ -1431,12 +1431,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 VCARB_01 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/426c63bab14e47c19748c4158e5822a3/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-vcarb-01-2024-426c63bab14e47c19748c4158e5822a3\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 VCARB_01 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Red Bull Racing",
-      "modelo": "RB20",
+      "equipo": "E194D2A5D8ED",
+      "modelo": "RB21",
       "motor": "Honda",
       "velocidad_maxima_kmh": 360,
       "aceleracion_0_100": 2.5,
-      "pilotos": [1, 2],
+      "pilotos": ["17","18"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 320,
@@ -1483,12 +1483,12 @@
       "model3d": "<div class=\"sketchfab-embed-wrapper\"> <iframe title=\"F1 RedBull RB-20 2024\" frameborder=\"0\" allowfullscreen mozallowfullscreen=\"true\" webkitallowfullscreen=\"true\" allow=\"autoplay; fullscreen; xr-spatial-tracking\" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src=\"https://sketchfab.com/models/0c9e188ef67b49f1bafd4b9e290a410c/embed\"> </iframe> <p style=\"font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;\"> <a href=\"https://sketchfab.com/3d-models/f1-redbull-rb-20-2024-0c9e188ef67b49f1bafd4b9e290a410c\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> F1 RedBull RB-20 2024 </a> by <a href=\"https://sketchfab.com/sarvesh903\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\"> sarvesh777 </a> on <a href=\"https://sketchfab.com\" target=\"_blank\" rel=\"nofollow\" style=\"font-weight: bold; color: #1CAAD9;\">Sketchfab</a></p></div>"
     },
     {
-      "equipo": "Williams",
-      "modelo": "FW44",
+      "equipo": "E194D2A6F71F",
+      "modelo": "FW47",
       "motor": "Mercedes",
       "velocidad_maxima_kmh": 350,
       "aceleracion_0_100": 2.7,
-      "pilotos": [19, 20],
+      "pilotos": ["19","20"],
       "rendimiento": {
         "conduccion_normal": {
           "velocidad_promedio_kmh": 315,
